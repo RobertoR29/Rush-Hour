@@ -19,7 +19,3 @@ Collaborated with a team to develop the Java game Rush Hour, including programmi
 - Team Collaboration
 - Object-oriented Design
 - GUI Development
-
----
-
-> **Note:** Full code and team contributions are documented in the repository.
